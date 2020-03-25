@@ -1,5 +1,5 @@
 import uuid
-from database.database import Database
+from database import Database
 import datetime
 
 __author__ = "wiktor"

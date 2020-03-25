@@ -1,9 +1,8 @@
 import uuid
 import datetime
-from database.database import Database
+from database import Database
 from models.post import Post
 
-__author__ = "wiktor"
 
 class Blog(object):
     def __init__(self, author, title, description, id=None):
