@@ -1,9 +1,0 @@
-{
-    "python.testing.pytestArgs": [
-        "src"
-    ],
-    "python.testing.unittestEnabled": false,
-    "python.testing.nosetestsEnabled": false,
-    "python.testing.pytestEnabled": true,
-    "python.pythonPath": "/Users/wiktor.fedun/Desktop/STUDIA/wprowadzenie do technologii webowych/blogApp/venv/bin/python3"
-}
